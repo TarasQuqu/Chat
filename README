@@ -1,0 +1,9 @@
+The project was developed in the NetBeans IDE8.2 development environment.
+- object oriented programming;
+- multithreading;
+- I / O streams;
+- cooperation with the network.
+- Interfeys
+- JFrame
+ The project is split into 4
+files: Client.java, Server.java, TCPConnection.java, ConnectionCheck.java
